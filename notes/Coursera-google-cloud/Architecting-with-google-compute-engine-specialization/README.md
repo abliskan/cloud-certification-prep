@@ -17,5 +17,5 @@ This program provides the skills you need to advance your career, and training t
 |  3   |  Essential Google Cloud Infrastructure: Core Services         | 30-11-2023 | [→](https://www.coursera.org/account/accomplishments/verify/NWWS8S8PEXLC) |
 |  4   |  Elastic Google Cloud Infrastructure: Scaling and Automation  | 05-10-2020 | [→] comming soon |
 |  5   |  Reliable Google Cloud Infrastructure: Design and Process     | 05-10-2020 | [→] comming soon |
-https://www.coursera.org/account/accomplishments/verify/NWWS8S8PEXLC?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
+
 Full course can be access in here [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture)
